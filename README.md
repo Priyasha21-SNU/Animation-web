@@ -21,7 +21,7 @@ To host this website on Windows
 
 ## Documentation
 
-[https://github.com/Priyasha21-SNU/Animation-web/issues/1#issue-1353045859](https://linktodocumentation)
+![webc animation](https://user-images.githubusercontent.com/95346970/187032277-98a9608f-c9ab-47b0-86e9-7eb76e7384fd.jpeg)
 
 
 ## Contributing
